@@ -1,0 +1,28 @@
+====== Hauptseite ======
+
+
+Hilfe zur Benutzung und Konfiguration der Wiki-Software findest du im Benutzerhandbuch.
+
+==  Herzlich Willkommen auf unserem eigenen kleinen Wiki! ==
+
+
+Hier findest du Anleitungen und Tipps, um in Zukunft noch effizienter arbeiten zu können;)
+
+Hier eine erlesene Auswahl:
+
+  * [[playground:playground|Lektorat]]
+  * [[Asana-PipeDrive]]
+  * [[Allgemeine Informationen über das Content Management System WordPress]]
+  * [[Zuständigkeiten und Ansprechpartner]]
+  * Das Hochladen
+  * SEO-Informationen
+  * Die verschiedenen Seiten
+  * Die verschiedenen Beiträge
+  * Messen
+  * Optimieren der Bilder
+  * Richtlinien zur Erstellung von Online-Texten
+  * Die Startseite
+  * Fotografie
+  * Photoshop
+  * FAQ
+  * Mailings
